@@ -60,7 +60,10 @@ The team should send out requests to schedule interviews with the client and blo
 time on their calendars to gather further understanding of the problem. This shall ensure
 that the client is available to answer questions, provide insight, and provide any additional
 information that might be required by designers to further their understanding. 
-The team should also identify key reports or screenshots that would be useful to obtain prior to interviewing users. 
+The team should also request and org chart, key reports or screenshots that would be useful to obtain prior to interviewing users. 
+
+#### [Prepare for Interviews](../Exercises/interview-prep.md)
+The team should review materials provided by the client, and update the running list of assumptions and questions. An agenda for interviews should also be prepared. 
 
 --
 ### [Schedule for Pre-Engagement](SCHEDULE.md)
