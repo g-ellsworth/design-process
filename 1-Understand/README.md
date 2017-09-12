@@ -69,6 +69,12 @@ Start with a feature wish list and condense into columns of priority for
 love to have someday...). This activity is great for ironing out which features
 are most important and which could potentially be put on the back burner list.
 
+#### [Available / Possible / Out of Scope](../Exercises/needs-wants-desires.md)
+
+The design team needs to work with the client champion and possibly a solutions architect to understand the estimated effort to deliver each item on the wish list and technical constraints. Then categorize the items into three groups: Available (ready on the back end, can be delivered in near future), Possible (back end needs extra effort, can be delivered with resources and budget), Out of Scope (technically impossible, or effor to achieve is unrealistically big). 
+
+A potential outcome from this task is Recommendations (Roadmap) for Future Engagements.
+
 #### [Five Whys](../Exercises/five-whys.md)
 
 This activity is meant to dig down deep into what the actual reasons are for a
