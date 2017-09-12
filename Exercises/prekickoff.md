@@ -12,6 +12,6 @@ The design team should collaborate with both the Solutions Director (SD) as well
 
 #### 2. Set up a “Pre-Kickoff Meeting” with the Project Champion
 * Confirm that the scope is still relevant, particularly because things may have changed since the SOW was first drafted.
-* Decide how many interviews will be necessary, and who they will be with.
+* Decide how many interviews will be necessary, and who they will be with. Understand the organization structure, especially the positions and relationship between the people/teams who will be interviewed. 
 * Obtain any current reports that are used or screenshots of the existing solution. 
 * Understand the business as a whole, the different roles in the company, and any key metrics, activities, and processes.
